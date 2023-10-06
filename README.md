@@ -24,8 +24,8 @@
 
 ### Links 🔗
 
-- Solution URL: [page]()
-- Live Site URL: [page]()
+- Solution URL: [page](https://www.frontendmentor.io/solutions/page-build-with-flexbox-yFT1C9GHRR)
+- Live Site URL: [page](https://sivin-wi.github.io/product-preview-card-component-main/)
 
 ## My process
 
